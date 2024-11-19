@@ -12,6 +12,7 @@ import AuthLayout from "./components/layout/AuthLayout";
 import RootLayout from "./components/layout/RootLayout";
 import { UserProvider } from "./context/UserContext";
 import Services from "./pages/Services";
+import BusinessPage from "./pages/BusinessPage";
 
 const router = createBrowserRouter([
   {
