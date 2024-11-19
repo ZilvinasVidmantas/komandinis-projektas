@@ -34,6 +34,10 @@ const router = createBrowserRouter([
         path: ROUTES.SEARCH_CATEGORY,
         element: <SearchCategory />,
       },
+      {
+        path: ROUTES.BUSINESS,
+        element: <BusinessPage />,
+      },
     ],
   },
   {
